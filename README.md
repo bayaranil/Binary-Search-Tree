@@ -1,2 +1,7 @@
 # Binary-Search-Tree
-Project 3
+
+# www.Patika.dev
+# Veri Yapıları ve Algoritmalar eğitiminin üçüncü projesidir.
+
+
+
